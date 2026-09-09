@@ -24,14 +24,14 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.038934267929105815,
-        "pitch": -0.005639270480301661,
-        "fov": 1.3365071038314758
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.1819729722368155,
-          "pitch": 0.2731047992231428,
+          "yaw": 1.1674111075209037,
+          "pitch": 0.20076390183176684,
           "rotation": 0,
           "target": "1-bathroom-type-6"
         }
